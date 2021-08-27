@@ -1,3 +1,6 @@
+About
+## TTS Keyboard Applied to Language Learning. Pronunciation Correction The world's best Chinese learning tool,
+## TTS输入法，应用于语言学习。 发音纠正，世界上最好的中文学习工具，
 这份代码是启程输入法3.0版本的代码，除算法部分是dll外，其它的模块全部开源。
 启程输入法从2003年发布第一版以来，得到了大量用户的好评，2009年停止更新。2018年重新开始更新，历时一年多，现在已经基本测试完成。
 
